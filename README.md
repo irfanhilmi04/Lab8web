@@ -4,10 +4,12 @@
 ## Laporan Praktikum 8
 
 1. Membuka XAMPP dan pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
+
 ![gambar1](https://user-images.githubusercontent.com/56240221/120315035-1ab19d80-c306-11eb-9350-69fb271468d2.jpg)
 ![gambar2](https://user-images.githubusercontent.com/56240221/120315041-1d13f780-c306-11eb-89c0-8d544cd59ba5.jpg)
 
 2. Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs) Lalu akses directory dengan mengakses URL: http://localhost/lab8_php_database/
+
 ![gambar3](https://user-images.githubusercontent.com/56240221/120315298-66fcdd80-c306-11eb-98e2-c83e5738fdff.jpg)
 
 3. Membuat file baru yaitu koneksi.php jika koneksi berhasil tersambung akan menampilkan pemberitahuan “koneksi berhasil”
